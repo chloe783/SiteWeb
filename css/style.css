@@ -290,23 +290,29 @@ div.carousel p {
   font-family: 'montserratregular';
   text-align: center;
 }
+.textCarousel{
+  margin-bottom:30px;
+}
 
 .institut {
   padding-top: 20px;
   padding-bottom: 60px;
   width:60%;
+  height:100%;
 }
 
 .consultations {
   padding-top: 20px;
   padding-bottom: 60px;
   width: 60%;
+  height:100%;
 }
 
 .lotus {
   padding-top: 20px;
   padding-bottom: 60px;
   width: 60%;
+  height:100%;
 }
 
 .titre1 {
@@ -728,8 +734,7 @@ div.epilation hr {
 
 .prestationsEpilation {
   background-color: #dac5d1;
-  background-size: cover;
-  height:400px;
+  background-size: cover;  
   position: relative;
   margin-bottom: 6%;
 }
@@ -1268,7 +1273,9 @@ span {
     position: relative;
     margin: 0 auto;
 }
-
+.carouselText{
+  width: 45%;
+}
 
 /*========================= RESPONSIVE ===========================*/
 
@@ -1342,9 +1349,6 @@ span {
     font-size: 20px;
   }*/
  
-  .carouselText{
-    width: 45%;
-  }
 
   .texte {
     font-family: 'montserratitalic';
