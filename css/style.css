@@ -535,6 +535,12 @@ div.NotreGamme hr {
   right : 110px;
 }
 
+.containerInstitut{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding:10%;
+}
 .EnSavoirPLus a {
   text-decoration: none;
   color: white!important;
@@ -1309,7 +1315,9 @@ span {
   .LeBioEtNous hr {
     border: 0.5px solid #85765c;
   }
+
 }
+
 
 
 
@@ -1426,11 +1434,11 @@ span {
   }
 
   .imageProduit {
-    height: 300px;
+    width:90%;
   }
 
   .imageProduit2 {
-    height:300px;
+    width:90%;
   }
 
   .produit, .produit2 {
