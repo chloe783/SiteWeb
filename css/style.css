@@ -294,16 +294,19 @@ div.carousel p {
 .institut {
   padding-top: 20px;
   padding-bottom: 60px;
+  width:60%;
 }
 
 .consultations {
   padding-top: 20px;
   padding-bottom: 60px;
+  width: 60%;
 }
 
 .lotus {
   padding-top: 20px;
   padding-bottom: 60px;
+  width: 60%;
 }
 
 .titre1 {
@@ -1338,6 +1341,10 @@ span {
   /*.texteBandeau {
     font-size: 20px;
   }*/
+ 
+  .carouselText{
+    width: 45%;
+  }
 
   .texte {
     font-family: 'montserratitalic';
