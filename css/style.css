@@ -939,7 +939,6 @@ div.massagesPrestiges hr {
 .prestationsMassagesPrestiges {
   background-color: #dac5d1;
   background-size: cover;
-  height:200px;
   position: relative;
   margin-bottom: 6%;
 }
@@ -1038,7 +1037,6 @@ div.corps hr {
 .prestationsCorps {
   background-color: #dac5d1;
   background-size: cover;
-  height:350px;
   position: relative;
   margin-bottom: 6%;
 }
@@ -1609,7 +1607,6 @@ div.massagesPrestiges hr {
 .prestationsMassagesPrestiges {
   background-color: #dac5d1;
   background-size: cover;
-  height:470px;
   position: relative;
   margin-bottom: 6%;
 }
