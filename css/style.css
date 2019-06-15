@@ -297,21 +297,21 @@ div.carousel p {
 .institut {
   padding-top: 20px;
   padding-bottom: 60px;
-  width:60%;
+  width:80%;
   height:100%;
 }
 
 .consultations {
   padding-top: 20px;
   padding-bottom: 60px;
-  width: 60%;
+  width: 80%;
   height:100%;
 }
 
 .lotus {
   padding-top: 20px;
   padding-bottom: 60px;
-  width: 60%;
+  width: 80%;
   height:100%;
 }
 
@@ -337,6 +337,9 @@ div.carousel p {
 
 .carousel-indicators li{
   background-color: black;
+}
+.carouselForPhone{
+  display:none;
 }
 
 /*-------------- NOUVEAUTÉS ---------------*/
@@ -1337,6 +1340,14 @@ span {
 .carousel {
   display: none;
   }
+
+.carouselForPhone{
+  display:flex;
+  flex-direction: column;
+}
+.titre1{
+  padding-top:0;
+}
 
 .menu {
 
